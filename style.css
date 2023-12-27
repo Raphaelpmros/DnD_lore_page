@@ -1,0 +1,124 @@
+body {
+    background-image: url(imgs/home.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    font-family: "Nunito", sans-serif;
+}
+
+.title {
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Carattere', cursive;
+    font-family: 'MedievalSharp', cursive;
+}
+
+.title h1 {
+    color: red
+}
+
+.container-fluid {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 2rem;
+}
+
+.img-fluid {
+    max-width: 200px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+#mainNavbar .navbar-brand {
+    color: red;
+}
+
+#mainNavbar .nav-link {
+    color: white
+}
+
+#mainNavbar .nav-link:hover {
+    color: red;
+}
+
+#mainNavbar {
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+.vecna {
+    color: #FFC0CB;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.tasha {
+    color: #FFC0CB;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.strahd {
+    color: #FFC0CB;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.minsc {
+    color: #FFC0CB;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.raven {
+    color: #FFC0CB;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.zariel {
+    color: #FFC0CB;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+#vecna {
+    max-width: 600px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+}
+
+#tasha {
+    max-width: 600px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+}
+
+#strahd {
+    max-width: 600px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+}
+
+#minsc {
+    max-width: 600px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+}
+
+#raven {
+    max-width: 600px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+}
+
+#zariel {
+    max-width: 600px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+}
+
+.navbar.scrolled {
+    background-color: rgb(174, 168, 231);
+    transition: background 1000ms;
+}
