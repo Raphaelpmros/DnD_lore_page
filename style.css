@@ -122,3 +122,9 @@ body {
     background-color: rgb(174, 168, 231);
     transition: background 1000ms;
 }
+
+@media (min-width: 768px) {
+    .order-md-1 {
+        order: 1;
+    }
+}
